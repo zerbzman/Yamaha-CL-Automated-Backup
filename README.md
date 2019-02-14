@@ -8,3 +8,6 @@ If you ever need to reset the settings, just delete the settings file that is sa
 ## Requirements
 * CL Editor needs to be installed. https://usa.yamaha.com/support/updates/cl_edt_mac.html
 * A Yamaha CL console needs to be on the same network as the computer running the backup tool.
+
+## Compatability
+This has been tested on a CL5. I don't know if it would work with a CL3 or a QL series console. Let me know.
